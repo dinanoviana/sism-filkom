@@ -1,4 +1,7 @@
 #PROJECT AKHIR MATA KULIAH IMK (kelompok)
+SISM FILKOM merupakan website yang membantu mahasiswa FILKOM dalam proses Skripsi mulai dari tahap Praproposal, Proposal, hingga mendapatkan Surat Tugas yang diterbitkan oleh Dekan.
+
+p.s. : web tidak sepenuhnya jadi, hanya interfacenya saja (.html & .css)
 
 ## Copyright and License
 
